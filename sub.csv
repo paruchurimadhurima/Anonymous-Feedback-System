@@ -1,0 +1,55 @@
+sno,sub_code,sub_title,dept_id,,sem
+1,CE401ES,Strength of Material - II,civil,2,2
+2,CE402ES,Fluid Mechanics - II,civil,2,2
+3,CE403ES,Structural Analysis,civil,2,2
+4,CV404ES,Engineering Geology,civil,2,2
+5,SM405MS,Business Economic and Financial Analysis,civil,2,2
+6,CE406ES,Fluid Mechanics Lab,civil,2,2
+7,CE408ES,Surveying - II Lab,civil,2,2
+8,CV407ES,Engineering Geology Lab,civil,2,2
+9,*MC400ES,Environmental Science and Technology,civil,2,2
+1,EC401ES,Switching Theory & Logic Design,eee,2,2
+2,EE402ES,Power Systems - I,eee,2,2
+3,EE403ES,Electrical Machines – II,eee,2,2
+4,EE404ES,Control Systems,eee,2,2
+5,SM405MS,Business Economic and Financial Analysis,eee,2,2
+6,EE406ES,Control Systems Lab,eee,2,2
+7,EE407ES,Electrical Machines Lab - II,eee,2,2
+8,EE408ES,Electronic Circuits Lab,eee,2,2
+9,*MC400HS,Gender Sensitization Lab,eee,2,2
+1,ME403ES,Dynamics of Machinery,mech,2,2
+2,ME401ES,Fluid Mechanics and Hydraulic Machines,mech,2,2
+3,ME404ES,Machine Drawing,mech,2,2
+4,ME405ES,Manufacturing Process,mech,2,2
+5,SM405MS,Business Economic and Financial Analysis,mech,2,2
+6,ME406ES,Kinematics and Dynamics Lab,mech,2,2
+7,ME407ES,Fluid Mechanics and Hydraulic Machines Lab,mech,2,2
+8,ME408ES,Manufacturing Process Lab,mech,2,2
+9,*MC400ES,Environmental Science and Technology,mech,2,2
+1,EC401ES,Switching Theory & Logic Design,ece,2,2
+2,EC402ES,Pulse and Digital Circu,ece,2,2
+3,EE404ES,Control Systems,ece,2,2
+4,EC405ES,Analog Communications,ece,2,2
+5,SM405MS,Business Economic and Financial Analysis,ece,2,2
+6,EC406ES,Analog Communications Lab,ece,2,2
+7,EC407ES,Pulse and Digital Circuits Lab,ece,2,2
+8,EC408ES,Analog Electronics Lab,ece,2,2
+9,*MC400HS,Gender Sensitization Lab,ece,2,2
+1,CS401BS,Computer Organization,cse,2,2
+2,CS402ES,Database Management Systems,cse,2,2
+3,CS403ES,Operating Systems,cse,2,2
+4,CS404ES,Formal Languages and Automata Theory,cse,2,2
+5,SM405MS,Business Economic and Financial Analysis,cse,2,2
+6,CS406ES,Computer Organization Lab,cse,2,2
+7,CS407ES,Database Management Systems Lab,cse,2,2
+8,CS408ES,Operating Systems Lab,cse,2,2
+9,*MC400HS,Gender Sensitization Lab,cse,2,2
+1,CS401BS,Computer Organization,it,2,2
+2,CS402ES,Database Management Systems,it,2,2
+3,CS403ES,Operating Systems,it,2,2
+4,CS404ES,Formal Languages and Automata Theory,it,2,2
+5,SM405MS,Business Economic and Financial Analysis,it,2,2
+6,CS406ES,Computer Organization Lab,it,2,2
+7,CS407ES,Database Management Systems Lab,it,2,2
+8,CS408ES,Operating Systems Lab,it,2,2
+9,*MC400HS,Gender Sensitization Lab,it,2,2
